@@ -10,12 +10,12 @@ class Student {
 
 void greeting(){
 cout<<"Greeting! "<<endl; 
-cout<<"Welcome to the main program ! "<<endl; ''
+cout<<"Welcome to the main program ! "<<endl; 
 }
 int main(){
 
-    system("clear"); 
-    string username="jamesbond" 
+    system("clear");
+    string username="jamesbond";  
     string password="007password" 
     cout<<"This is the main class of our application.\n";
     cout<<"Thank you!"<<endl; 
